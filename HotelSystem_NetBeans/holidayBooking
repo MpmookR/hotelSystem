@@ -1,0 +1,39 @@
+Room Details: 
+Room Type: Standard
+Room Number: 111
+Floor: 1
+Occupancy: Single
+Price Per Night: GBP200.0
+Number of Windows: 2
+
+Bookings Details:
+ Booking ID: 564131
+ Customer: Denys
+ Contact Number: null
+ Email: thisisdenys
+ Check-In Date: 2024-12-20
+ Check-out Date: 2024-12-25
+ Total price: 1000.0
+
+Room Details: 
+Room Type: Suite
+Room Number: 334
+Floor: 3
+Occupancy: Triple
+Price Per Night: GBP900.0
+Number of Windows: 5
+Balcony size: 20.0 sq. meters
+View: sea view
+Living Room Size: 20.0 sq. meters
+Number of Bathrooms: 3
+Kitchenette: No
+
+Bookings Details:
+ Booking ID: 753943
+ Customer: Mook
+ Contact Number: null
+ Email: thisismail
+ Check-In Date: 2024-12-21
+ Check-out Date: 2024-12-31
+ Total price: 9000.0
+
